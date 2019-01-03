@@ -1,9 +1,24 @@
+# 5.4.28
+## mm/dd/2019
+
+1. [Common](#common)
+    1. [](#improved)
+        - Logo particle: Added logo image max height (#2424)
+    1. [](#bugfix)   
+        - Social particle: Improved link target handling (#2214)
+        - Helium Copyright particle: fixed missing link (#2214)
+1. [WordPress](#wordpress)
+    1. [](#new)
+        - Updated Timber to v1.8.4
+        
 # 5.4.27
-## mm/dd/2018
+## 12/14/2018
 
 1. [Common](#common)
     1. [](#new)
         - Added Section Variation field for Layout sections.
+    1. [](#improved)
+        - Updated Lightcase version.     
     1. [](#bugfix)
         - Fixed fatal error on PHP 5.4 (#2378)
         - Fixed `Folder::doDelete($folder, false)` removing symlink when it should not (#2396)
