@@ -1,11 +1,10 @@
 # 5.4.30
-## 06/21/2019
+## mm/dd/2019
 
 1. [Common](#common)
-    1. [](#new)
-        - No changes yet
     1. [](#bugfix)
-        - equal-height CSS creating width / overflow issues
+        - Fixed equal-height CSS creating width / overflow issues
+        - Fixed fatal error if content block is missing attributes
 
 # 5.4.29
 ## 06/21/2019
