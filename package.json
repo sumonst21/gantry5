@@ -4,11 +4,11 @@
   "description": "Gantry 5 / JS and CSS bundler",
   "main": "gulpfile.js",
   "dependencies": {
-    "npm": "^5.4.2"
+    "npm": "^11.2.0"
   },
   "devDependencies": {
     "browserify": "^14.4.0",
-    "gulp": "^3.9.1",
+    "gulp": "^5.0.0",
     "gulp-if": "^2.0.2",
     "gulp-jsonminify": "1.0.0",
     "gulp-rename": "^1.2.2",
@@ -19,7 +19,7 @@
     "merge-stream": "^1.0.1",
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0",
-    "watchify": "^3.9.0",
+    "watchify": "^4.0.0",
     "yargs": "^9.0.1"
   },
   "scripts": {
